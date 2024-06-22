@@ -61,7 +61,7 @@
 		"prettier-plugin-sort-json": "4.0.0",
 		"run-script-os": "1.1.6",
 		"ts-node": "10.9.2",
-		"tslib": "2.6.2",
+		"tslib": "2.6.3",
 		"turbo": "1.13.4"
 	},
 	"engines": {
